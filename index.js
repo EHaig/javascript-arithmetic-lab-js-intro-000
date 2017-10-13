@@ -10,6 +10,6 @@ function multiply(){
 
 }
 
-function dicide(){
-  
+function divide(){
+
 }
