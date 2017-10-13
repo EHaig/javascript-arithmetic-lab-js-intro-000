@@ -3,11 +3,11 @@ function add(a, b) {
 }
 
 function subtract(){
-return parseInt(a) - parseInt(b);
+  return parseInt(a) - parseInt(b);
 }
 
 function multiply(){
-
+  return parseInt(a) * parseInt(b);
 }
 
 function divide(){
