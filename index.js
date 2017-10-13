@@ -2,7 +2,7 @@ var a;
 var b;
 
 function add(){
-return a + b;
+  return parseInt(a) + parseInt(b);
 }
 
 function subtract(){
