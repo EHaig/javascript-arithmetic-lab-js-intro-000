@@ -13,3 +13,11 @@ function multiply(a, b){
 function divide(a, b){
   return parseInt(a) / parseInt(b);
 }
+
+function inc(n){
+  return parseInt(n)+= ;
+}
+
+function dec(n){
+  return parseInt(n)-= ;
+}
