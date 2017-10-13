@@ -7,5 +7,9 @@ function subtract(){
 }
 
 function multiply(){
+
+}
+
+function dicide(){
   
 }
