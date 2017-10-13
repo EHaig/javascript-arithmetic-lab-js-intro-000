@@ -1,7 +1,7 @@
 var a;
 var b;
 
-function add(){
+function add() {
   return parseInt(a) + parseInt(b);
 }
 
