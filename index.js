@@ -21,3 +21,7 @@ function inc(n){
 function dec(n){
   return parseInt('a') -= 1;
 }
+
+function makeInt(){
+  
+}
