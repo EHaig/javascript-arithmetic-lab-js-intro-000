@@ -11,5 +11,5 @@ function multiply(){
 }
 
 function divide(){
-return parseInt(a) / parseInt(b);
+  return parseInt(a) / parseInt(b);
 }
